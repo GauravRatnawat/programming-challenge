@@ -1,11 +1,15 @@
 package com.anomaly.detector;
 
+
+
 import org.springframework.boot.Banner.Mode;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 import com.anomaly.detector.utility.GeneralUtil;
+
+
 
 @SpringBootApplication(exclude = { DataSourceAutoConfiguration.class })
 public class AnomalyDetectorApplication {
