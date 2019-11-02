@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: FGBeacons
+Implementation-Version: 0.2
+Built-By: gkratnawat
+Implementation-Vendor-Id: com.fg.beacons
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/FGBeacons/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
